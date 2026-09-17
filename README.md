@@ -1,2 +1,0 @@
-# love-page
-love
